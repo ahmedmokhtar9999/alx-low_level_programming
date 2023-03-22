@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 	/**
 	 * main - fibonacci <3
 	 *
@@ -7,7 +6,6 @@
 	 *
 	 * Return:  (Success)
 	 */
-
 int main(void)
 {
 unsigned long int i;
